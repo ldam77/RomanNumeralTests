@@ -14,7 +14,7 @@ Install Roman-Numerals by cloning this repository.
 
 ## Technologies Used
 
-Application: JavaScript,jQuery-3.3.1, Node.js, Webpack, Jasmine, Karma
+Application: JavaScript, Node.js, Webpack, Jasmine, Karma
 
 ## Support and Contact
 
